@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matraina
-- 👀 I’m interested in physics and technology
+- 👀 I’m interested in experimental physics and probability
 - 🌱 I help radiation detectors talk to humans
 - 💞️ I’m happy to collaborate on analysis code for nuclear/astroparticle physics
 - 📫 How to reach me: mtraina@uw.edu
